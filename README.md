@@ -1,6 +1,3 @@
-Perfeito! Aqui está o seu texto transformado em um **README bem organizado e visualmente agradável**, mantendo todo o conteúdo exatamente como você escreveu:
-
----
 
 # E-commerce React + Vite + Tailwind CSS 🛒
 
